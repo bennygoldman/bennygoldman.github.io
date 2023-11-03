@@ -21,9 +21,9 @@ I'm creative at heart. I love collaborating to divise great ideas, solve complex
 
 #### My current projects
 
-- ExtraExtra: a way to get around the social media news blackout in Canada
-- TPL Passport: a tool to track visits to all 100 branches of the Toronto Public Library
-- TTC Late Note: get proof to show your delay was public transit's fault 
+- **ExtraExtra**: a way to get around the social media news blackout in Canada
+- **TPL Passport**: a tool to track visits to all 100 branches of the Toronto Public Library
+- **TTC Late Note**: get proof to show your delay was public transit's fault 
 
 #### My toolkit (the list is always growing...)
 

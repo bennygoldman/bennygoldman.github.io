@@ -19,13 +19,13 @@ Hi, I'm Benny Goldman. A freshly-certified, Toronto-based, full-stack Web Develo
 
 I'm creative at heart. I love collaborating to divise great ideas, solve complex challenges, and make things that bring people joy.
 
-#### My current projects
+#### Current projects
 
 - **ExtraExtra**: a way to get around the social media news blackout in Canada
 - **TPL Passport**: a tool to track visits to all 100 branches of the Toronto Public Library
 - **TTC Late Note**: get proof to show your delay was public transit's fault 
 
-#### My toolkit (the list is always growing...)
+#### Toolkit (the list is always growing...)
 
 - ![React](https://img.shields.io/badge/react-%23430098.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

@@ -13,7 +13,7 @@ Get in touch on [GitHub](https://www.github.com/bennygoldman), [LinkedIn](https:
 - **TTC Late Note**: get proof to show your delay was public transit's fault
 
 ### Past projects
-- [**Fansite**](https://bennygoldman.github.io/fansite/): a responsive website with API-driven commenting features     [_repo_](../../../fansite)
+- [**Fansite**](https://bennygoldman.github.io/fansite/): a responsive website with API-driven commenting features     [_repo_](https://bennygoldman.github.io/fansite/)
 
 ### Toolkit (the list is always growing...)
 

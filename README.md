@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**bennygoldman/bennygoldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi, I'm Benny Goldman. A freshly-certified, Toronto-based, full-stack Web Developer. I'm pursuing my professional dreams after a career in Advertising.
 
 I'm creative at heart. I love collaborating to divise great ideas, solve complex challenges, and make things that bring people joy.
@@ -25,7 +10,10 @@ Get in touch on [GitHub](https://www.github.com/bennygoldman), [LinkedIn](https:
 
 - **ExtraExtra**: a way to get around the social media news blackout in Canada
 - **TPL Passport**: a tool to track visits to all 100 branches of the Toronto Public Library
-- **TTC Late Note**: get proof to show your delay was public transit's fault 
+- **TTC Late Note**: get proof to show your delay was public transit's fault
+
+### Past projects
+- [**Fansite**](https://bennygoldman.github.io/fansite/): a responsive website with API-driven commenting features     [_repo_](../../../fansite)
 
 ### Toolkit (the list is always growing...)
 
